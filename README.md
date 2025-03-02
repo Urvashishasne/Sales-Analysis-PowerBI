@@ -41,7 +41,7 @@ This project is a **Sales Analysis Dashboard** created using **Power BI** to ana
             
 ## 📸 Dashboard Preview        
 
-![Screenshot (196)](https://github.com/user-attachments/assets/8c0645fd-1636-4bab-b40f-5c01d44c21d6)
+![Power   Style Automotive Photo Collage](https://github.com/user-attachments/assets/e49b0010-ac3b-46c5-9b09-0531b3b071ab)
 
 
 ## 📢 Connect With Me          
